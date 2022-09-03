@@ -4,7 +4,7 @@
     
     <template>
       <main>
-        <h1>Scores journée</h1>
+        <h1>Mes pronos</h1>
         <LeagueRank />
       </main>
     </template>
